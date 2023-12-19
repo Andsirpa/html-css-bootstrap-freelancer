@@ -19,3 +19,7 @@
 .avatar-img {
     max-width: 200px;
 }
+
+.send-button {
+    background-color: #1abc9c;
+}
